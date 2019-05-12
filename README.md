@@ -69,14 +69,13 @@ Kumar Vishal
  
 M3nBeR SuReS 
 
-## how to create service for app﻿
+## how to create service for app
    
 
  
 bryanmej 
 
-## Why does Ubuntu not detect the wifi network adapter right away?﻿
-Reply      
+## Why does Ubuntu not detect the wifi network adapter right away?
 
  
 busyrand 
