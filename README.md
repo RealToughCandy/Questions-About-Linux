@@ -34,8 +34,7 @@ m b
  
 Kumar Vishal 
 
-## Windows adding Linux kernel to windows. 
-## What does that mean for linux community ?? 
+## Windows adding Linux kernel to windows. What does that mean for linux community ?? 
 
  
 Donovan 
