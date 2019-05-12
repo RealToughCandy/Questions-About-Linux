@@ -87,3 +87,7 @@ busyrand
 Titrate Logic 
 
 ## When should I learn Linux, if I already have adequate development tools on Mac/PC?
+
+Miguel Carter
+
+## If penguins only live 20 years and Linux is 20 years old does it mean we're about to have a new mascot?
